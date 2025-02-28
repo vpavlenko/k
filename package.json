@@ -1,5 +1,5 @@
 {
-    "name": "react-piano-keyboard-layout",
+    "name": "k",
     "version": "1.0.0",
     "description": "A customizable piano keyboard layout component for React",
     "main": "dist/index.js",
@@ -15,7 +15,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/yourusername/react-piano-keyboard-layout.git"
+        "url": "git+https://github.com/vpavlenko/k.git"
     },
     "keywords": [
         "react",
@@ -24,7 +24,7 @@
         "layout",
         "music"
     ],
-    "author": "",
+    "author": "vpavlenko",
     "license": "MIT",
     "peerDependencies": {
         "react": ">=16.8.0",
